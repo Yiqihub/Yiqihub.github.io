@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://chaosmagics.github.io
+site_author: 你的名字
+theme:
+  name: material #主题
